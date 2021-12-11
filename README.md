@@ -1,9 +1,9 @@
 # OOP-Inter-Task
-The task was about creating abstract structure of OOP model. Topic was a trees. 
-As an solution, author created abstract class Plant, interface Tree and two 
+The task was about creating an abstract structure of the OOP model. The topic was a tree. 
+As a solution, the author created abstract class Plant, interface Tree, and two 
 classes of trees species. 
-Class Plant have two methods:
-    public Long fotosythesis(Long quantityOfSunEnergy, Long numberOfCO2)
+Class Plant has two methods:
+    public Long photosynthesis(Long quantityOfSunEnergy, Long numberOfCO2)
 and
    public void shedLeaves(Long numberOfLeaves).
 
@@ -12,6 +12,6 @@ Interface is declaring three abstract methods
     public void increaseRoots()
     public void createNewRoots()
 
-Two classes, which implements Tree and extends Plant, are ConiferousTree
+Two classes, which implement Tree and extends Plant, are ConiferousTree
 and DeciduousTree. Examples of overriding and overloading methods are shown 
-in codes of these classes.
+in the codes of these classes.
