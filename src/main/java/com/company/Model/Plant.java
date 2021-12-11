@@ -3,7 +3,7 @@ package com.company.Model;
 
 public abstract class Plant {
 
-    public Long fotosythesis(Long quantityOfSunEnergy, Long numberOfCO2){
+    public Long photosythesis(Long quantityOfSunEnergy, Long numberOfCO2){
         Long oxygen;
         oxygen = quantityOfSunEnergy + numberOfCO2;
         return oxygen;

@@ -34,13 +34,13 @@ public class DeciduousTree extends Plant implements Tree  {
     }
 
     @Override
-    public Long fotosythesis(Long quantityOfSunEnergy, Long numberOfCO2) {
-        return super.fotosythesis(quantityOfSunEnergy, numberOfCO2);
+    public Long photosythesis(Long quantityOfSunEnergy, Long numberOfCO2) {
+        return super.photosythesis(quantityOfSunEnergy, numberOfCO2);
     }
 
 
-    public Long fotosythesis(Long quantityOfSunEnergy, Long numberOfCO2, Long quantityOfOxygen) {
-        return super.fotosythesis(quantityOfSunEnergy, numberOfCO2);
+    public Long photosythesis(Long quantityOfSunEnergy, Long numberOfCO2, Long quantityOfOxygen) {
+        return super.photosythesis(quantityOfSunEnergy, numberOfCO2);
     }
 
     @Override
