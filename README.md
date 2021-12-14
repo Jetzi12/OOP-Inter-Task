@@ -1,4 +1,12 @@
 # OOP-Inter-Task
+Example of the OOP mechanizms.
+
+## Table of contents
+* [General info](#general-info)
+* [Technologies](#technologies)
+* [Setup](#setup)
+
+## General info
 The task was about creating an abstract structure of the OOP model. The topic was a tree. 
 As a solution, the author created abstract class Plant, interface Tree, and two 
 classes of trees species. 
@@ -15,3 +23,8 @@ Interface is declaring three abstract methods
 Two classes, which implement Tree and extends Plant, are ConiferousTree
 and DeciduousTree. Examples of overriding and overloading methods are shown 
 in the codes of these classes.
+
+
+## Technologies
+Project is created with:
+* Java SE 8
