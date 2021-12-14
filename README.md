@@ -4,7 +4,6 @@ Example of the OOP mechanizms.
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
-* [Setup](#setup)
 
 ## General info
 The task was about creating an abstract structure of the OOP model. The topic was a tree. 
